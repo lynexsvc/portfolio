@@ -1,4 +1,6 @@
-# Biography
+# Portfolio | Telco Churn
+
+## Biography
 Experienced and knowledgeable Professional with years of experience in the telecommunication field. Provided project management over large-scale, complex technology projects, Managing schedules to ensure maximum customer satisfaction, coordinating diverse teams and resources in order to complete objectives on time and within budget..  
 
 ## Work Experience
@@ -11,7 +13,7 @@ Operated and owned an IT Managed services company. Provided Wired and wireless n
 ### Crimson Telecom churn case study
 ![crimson](/assets/crimson2.png)
 
-# Problem statement
+# Introduction
 
 Telecom Churn analysis Telecom Churn (also known as customer churn) is the loss of customers to competitors. This is a major issue for telecom companies as it is costly to acquire new customers and companies want to keep their existing customers. 
 
@@ -20,8 +22,19 @@ The majority of telecom companies experience voluntary churn. What is Customer C
 Existing customers tend to have a higher level of service usage and can generate additional referrals. While customer retention can be achieved by providing excellent customer service and products, the best way to prevent customer attrition is to really get to know your customers. With the vast amount of data collected about your customers, you can create churn prediction models. Once you know who your customers are likely to defect, you can prioritize your marketing efforts based on that subset of your customer base.
 
 # Problem statement
-![customer churn gender](/assets/custchurn0.PNG)
-# Problem statement
+The problem addressed in this project is the customer churn rate in Crimson Telecom. The objective is to explore and analyze the data to uncover the key factors responsible for customer churn. Based on the findings, recommendations will be provided to enhance customer retention.
+
+## Average churn by gender and contract types..
+The analisys clearly shows that their is no identifiable trends in the data between gender and contract types.
+
 ![crimson2](/assets/img1.PNG)
-# Problem statement
+
+# Average churn by contract type and monthly charges
+![customer churn gender](/assets/custchurn0.PNG)
+# Customer churn by tenure months
 ![crimson3](/assets/custchurn1.PNG)
+
+## Solution
+
+## Conclusion
+
