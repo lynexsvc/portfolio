@@ -12,3 +12,14 @@ Operated and owned an IT Managed services company. Provided Wired and wireless n
 ![crimson](/assets/crimson2.png)
 
 # Problem statement
+
+Telecom Churn analysis Telecom Churn (also known as customer churn) is the loss of customers to competitors. This is a major issue for telecom companies as it is costly to acquire new customers and companies want to keep their existing customers. 
+
+The majority of telecom companies experience voluntary churn. What is Customer Churn? Customer churn is the loss of a customer’s interest in doing business with a particular company. Companies are very interested in measuring customer churn because retaining an existing customer is much less costly than acquiring a new one. New business involves funneling leads through a sales process, leveraging marketing and sales budget to acquire additional customers. 
+
+Existing customers tend to have a higher level of service usage and can generate additional referrals. While customer retention can be achieved by providing excellent customer service and products, the best way to prevent customer attrition is to really get to know your customers. With the vast amount of data collected about your customers, you can create churn prediction models. Once you know who your customers are likely to defect, you can prioritize your marketing efforts based on that subset of your customer base.
+
+
+![crimson1](/assets/custchurn0.png)
+![crimson2](/assets/img1.png)
+![crimson3](/assets/custchurn1.png)
