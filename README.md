@@ -19,7 +19,9 @@ The majority of telecom companies experience voluntary churn. What is Customer C
 
 Existing customers tend to have a higher level of service usage and can generate additional referrals. While customer retention can be achieved by providing excellent customer service and products, the best way to prevent customer attrition is to really get to know your customers. With the vast amount of data collected about your customers, you can create churn prediction models. Once you know who your customers are likely to defect, you can prioritize your marketing efforts based on that subset of your customer base.
 
-
+# Problem statement
 ![crimson1](/assets/custchurn0.png)
+# Problem statement
 ![crimson2](/assets/img1.png)
+# Problem statement
 ![crimson3](/assets/custchurn1.png)
